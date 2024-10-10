@@ -48,9 +48,9 @@ This jupyter file contains analyzing the data and before-hand running of all the
 - **noc_regions.csv**: Provides the mapping between the National Olympic Committees (NOCs) and their corresponding regions.
 
 
-## Video Demo
+## Pdf Demo
 
-Since the dataset is large and the application could not be deployed on the Streamlit cloud platform, a **working video demo** is attached to this repository. It showcases how the app works with the given data.
+Since the dataset is large and the application could not be deployed on the Streamlit cloud platform, a **working pdf demo** is attached to this repository. It showcases how the app works with the given data and analysis.
 
 
 ## Challenges
