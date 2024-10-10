@@ -38,7 +38,7 @@ This dataset contains historical data about Olympic athletes, including their na
 ### 4. `noc_regions.csv`
 Contains information about the National Olympic Committees (NOCs) and their corresponding regions.
 
-### 5. `notebook.ipnb
+### 5. `notebook.ipnb`
 This jupyter file contains analyzing the data and before-hand running of all the functions and manipulations
 
 
